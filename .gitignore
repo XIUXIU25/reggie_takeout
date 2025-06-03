@@ -41,7 +41,7 @@ build/
 .mvn/wrapper/maven-wrapper.jar
 
 # Spring Boot 配置文件（含密码）
-src/main/resources/application.yml
+src/main/resources/application.yaml
 
 # 数据源配置文件（含数据库密码）
 .idea/dataSources.xml
